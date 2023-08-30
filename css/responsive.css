@@ -4,8 +4,7 @@
 
 @media (max-width: 992px) {
   .hero_area {
-    min-height: 50vh;
-    min-width: 60vh;
+    min-height: 100vh;
   }
 
 
