@@ -656,7 +656,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #292727;
+  background-color: #000000;
   border-radius: 10px;
   overflow: hidden;
   margin-top: 45px;
